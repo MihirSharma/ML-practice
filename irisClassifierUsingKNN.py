@@ -15,7 +15,7 @@ X_train, X_test, y_train, y_test = train_test_split(iris_dataset['data'], iris_d
 
 iris_dataframe = pd.DataFrame(X_train, columns=iris_dataset["feature_names"])
 
-# plot scatter matrix
+# plot scatter matrix (uncomment lower two lines)
 # grr = pd.plotting.scatter_matrix(iris_dataframe, marker = 'o', c =y_train, figsize = (15,15), hist_kwds= {'bins':20})
 # plt.show()
 
