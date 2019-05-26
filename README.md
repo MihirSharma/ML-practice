@@ -6,4 +6,4 @@ Resource used for practice
 
 1. Iris classification using KNN classifier (sklearn)
 
-https://github.com/MihirSharma/ML-practice/blob/0d8c9793ca1fae9472268ef4e96c1934fa22f913/irisClassifierUsingKNN.py#L1-L28
+{% gist 77525341cb345aa2857ec99f553240f9 %}
