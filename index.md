@@ -1,4 +1,3 @@
-# Machine Learning Practice
 
 # 1. Iris classification using KNN classifier (sklearn)
 
