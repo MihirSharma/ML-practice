@@ -22,4 +22,4 @@ Resource used for practice
 
 # 3. Correlation Matrix between all features of the Wisconsin Breast Cancer Dataset
 
-{%  gist 00b72a10be59b1947a904de369dc10a6  %}
+{% gist 00b72a10be59b1947a904de369dc10a6 %}
