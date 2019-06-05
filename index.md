@@ -12,3 +12,7 @@
 # 3. Correlation Matrix between all features of the Wisconsin Breast Cancer Dataset
 
 {% gist 00b72a10be59b1947a904de369dc10a6 %}
+
+
+# 4. Implementation of Linear Regression, Ridge Regression and Lasso
+{% gist 34a482b30e5b383701d3c76290e05461 %}
