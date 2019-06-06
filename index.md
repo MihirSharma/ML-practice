@@ -16,3 +16,7 @@
 
 # 4. Implementation of Linear Regression, Ridge Regression and Lasso
 {% gist 34a482b30e5b383701d3c76290e05461 %}
+
+
+# 5. Implementation of Linear SVM for a synthetic dataset in 2d and 3d along with graphical representation
+{% gist aa523585d07a9527296cc20f6ced6430 %}
